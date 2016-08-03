@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ANTOINE DESPRES-BEDWARD]]></title>
         <description><![CDATA[ANTOINE DESPRES-BEDWARD]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/antoinedespresbedward/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 20:11:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 20:11:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/antoinedespresbedward/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Where am I headed?]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7b8cc31-c0de-479e-b754-3cd77e2b3788.jpg" alt="Sailing the Whitsunday Islands in Australia">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c7b8cc31-c0de-479e-b754-3cd77e2b3788.jpg</link>
+            <guid isPermaLink="false">bdac4cce-99e2-48d3-a005-af6ce82ecfef</guid>
+            <pubDate>Wed, 03 Aug 2016 20:11:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70c0c8f1-3bd6-4709-a171-081cfa88aaf1.jpg">]]></description>
-            <link>undefined296b5da7-23d5-48b6-b3c0-d3ea7f0f5448/index.html</link>
+            <link>https://thegrid.ai/antoinedespresbedward/296b5da7-23d5-48b6-b3c0-d3ea7f0f5448/index.html</link>
             <guid isPermaLink="false">296b5da7-23d5-48b6-b3c0-d3ea7f0f5448</guid>
             <pubDate>Wed, 03 Aug 2016 20:11:20 GMT</pubDate>
         </item>
