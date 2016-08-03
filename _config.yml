@@ -14,5 +14,11 @@ layout_spectrum: 0.24358936632052064
 analytics:
   google: UA-78762389-1
 name: Antoine Bedward
+navigation:
+  - name: >-
+      Comparing the effect of support on student satisfaction in online and
+      face-to-face universities
+    url: 'https://dt.athabascau.ca/jspui/handle/10791/43'
+    type: external
 title: 'Hello, World!'
 description: Designing Learning that Excites!
