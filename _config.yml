@@ -13,6 +13,9 @@ color:
 layout_spectrum: 0.24358936632052064
 analytics:
   google: UA-78762389-1
+author:
+  name: Antoine Despres-Bedward
+  email: adbedward@icloud.com
 name: Antoine Despres-Bedward
 navigation:
   - name: >-
@@ -23,5 +26,5 @@ navigation:
   - name: Proud to be a public servant - Federal Youth Network
     url: 'https://youtu.be/NVJx57GAARE'
     type: external
-title: ANTOINE DESPRES-BEDWARD
+title: Design Learning that Excites!
 description: Design Learning that Excites!
