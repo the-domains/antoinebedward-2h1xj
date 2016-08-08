@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-08T21:41:02.336Z'
+datePublished: '2016-08-08T21:42:04.587Z'
 sourcePath: >-
   _posts/2016-08-03-i-approach-learning-design-like-a-blank-canvas-every-course.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/54c08326-67fa-4e1d-ab19-b443e7031c54.jpg
 author: []
 via: {}
-dateModified: '2016-08-08T21:41:01.592Z'
+dateModified: '2016-08-08T21:42:03.875Z'
 title: ''
 publisher: {}
 description: >-
