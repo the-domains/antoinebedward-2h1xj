@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-04T01:20:22.695Z'
+datePublished: '2016-08-08T21:41:02.336Z'
 sourcePath: >-
   _posts/2016-08-03-i-approach-learning-design-like-a-blank-canvas-every-course.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/54c08326-67fa-4e1d-ab19-b443e7031c54.jpg
 author: []
 via: {}
-dateModified: '2016-08-04T01:20:21.791Z'
+dateModified: '2016-08-08T21:41:01.592Z'
 title: ''
 publisher: {}
 description: >-
@@ -33,8 +33,10 @@ I completed my Master of Education at Athabasca University. There I wrote a thes
 Currently, I am completing my Philosophical Doctorate in Education at the Ontario Institute for Studies in Education at the University of Toronto.
 
 > Learning and Educating are big parts of my life, and Toronto is the best place for me right now.
-> 
-> You can learn more about me [here][1].
+
+I recently returned from a research trip to East Africa with my team. We are exploring the current status of online learning focused around engineering education in Africa. Throughout this trip, we met with the African Virtual University, Kenyatta University, the University of Nairobi, the University of Rwanda and many more.
+
+> Learn more about me [here][1].
 
 
 
