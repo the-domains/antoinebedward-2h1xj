@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-08T21:42:04.587Z'
+datePublished: '2016-08-08T22:21:44.755Z'
 sourcePath: >-
   _posts/2016-08-03-i-approach-learning-design-like-a-blank-canvas-every-course.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/54c08326-67fa-4e1d-ab19-b443e7031c54.jpg
 author: []
 via: {}
-dateModified: '2016-08-08T21:42:03.875Z'
+dateModified: '2016-08-08T22:21:43.964Z'
 title: ''
 publisher: {}
 description: >-
@@ -35,6 +35,7 @@ Currently, I am completing my Philosophical Doctorate in Education at the Ontari
 > Learning and Educating are big parts of my life, and Toronto is the best place for me right now.
 
 I recently returned from a research trip to East Africa with my team. We are exploring the current status of online learning focused around engineering education in Africa. Throughout this trip, we met with the African Virtual University, Kenyatta University, the University of Nairobi, the University of Rwanda and many more.
+![Me at the African Virtual University 2016 Conference](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecb04d01-75d2-4c42-a2d5-476a8ffc872e.jpg)
 
 > Learn more about me [here][1].
 
